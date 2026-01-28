@@ -1,6 +1,7 @@
 /* Add CSS Styling */
 
-.button {
+.left
+.right {
     font-size: 28px;
     font-family: `Helvetica` `Times `sans-serif` ;
 }
@@ -12,5 +13,4 @@
 
 .right {
     background-color: yellow;
-
 }
